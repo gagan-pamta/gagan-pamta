@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagan Pamta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align ="right"  alt = "coding" width = "400px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi90zRXYlFoRfI5ZZrK5rRJTzs5sqkiF4buEj8MXNhwO-N4rxGSAUn_uk&s">
+<img align ="right"  alt = "coding" width = "400px" src = "https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 📫 How to reach me **pamtagagan00@gmail.com**
 
